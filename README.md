@@ -30,13 +30,14 @@ OOP graphical game with sound and keyboard/mouse listeners
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/calculator%204.zip)
 
 
-### Etch a scetch
+### Timeline
 OOP graphical game with sound and keyboard/mouse listeners
 
-![Gameplay]([)]([https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true)https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png))
+![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/TIMELINE.png?raw=true)
 
 
-[Source Code]([)](https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)
+[Source Code]()
+
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners
 
