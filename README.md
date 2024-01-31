@@ -15,8 +15,9 @@ Skyline High School Computer Programming 1-2
 ### SpaceGame
 OOP graphical game with sound and keyboard/mouse listeners
 
-![Gameplay]([)]([https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true)https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png))
-
+![Gameplay](
+[
+](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png))
 
 [Source Code]([)](https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)
 ### Calculator
