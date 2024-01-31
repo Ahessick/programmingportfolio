@@ -47,7 +47,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/etchaScetch.zip)
 
 (https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)https://github.com/Ahessick/programmingportfolio/blob/main/src/SpaceGame%203.zip)
-### SpaceGame
+### 
 OOP graphical game with sound and keyboard/mouse listeners
 
 ![Gameplay]([)]([https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true)https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png))
