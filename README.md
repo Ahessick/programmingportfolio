@@ -23,7 +23,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 
 ### Calculator
-OOP graphical game with sound and keyboard/mouse listeners
+
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CALCULATOR.png?raw=true)
 
@@ -32,7 +32,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 
 ### Timeline
-OOP graphical game with sound and keyboard/mouse listeners
+
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/TIMELINE.png?raw=true)
 
@@ -40,7 +40,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/Timeline%202.zip)
 
 ### Etch a Scetch
-OOP graphical game with sound and keyboard/mouse listeners
+
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/ETCH.png?raw=true)
 
@@ -49,7 +49,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 
 
 ### Conversion App
-OOP graphical game with sound and keyboard/mouse listeners
+
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
 
