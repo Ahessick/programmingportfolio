@@ -57,6 +57,6 @@
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/conversionApp.zip)
 
 ### 99 Bottles
-![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
+![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/99.png?raw=true)
 
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/Main.java.zip)
