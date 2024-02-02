@@ -1,5 +1,5 @@
 # Arya Hessick's Programming Portfolio 2023-2024
-Skyline High School Computer Programming 1-2
+*Skyline High School Computer Programming 1-2
 
 ## USOE TECH Certifications
 * Computer Programming 1
@@ -14,7 +14,7 @@ Skyline High School Computer Programming 1-2
 
 
 ### SpaceGame
-OOP graphical game with sound and keyboard/mouse listeners
+* OOP graphical game with sound and keyboard/mouse listeners
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
@@ -40,6 +40,7 @@ OOP graphical game with sound and keyboard/mouse listeners
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/Timeline%202.zip)
 
 ### Etch a Scetch
+* Keyboard based game
 
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/ETCH.png?raw=true)
@@ -51,6 +52,11 @@ OOP graphical game with sound and keyboard/mouse listeners
 ### Conversion App
 
 
+![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
+
+[Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/conversionApp.zip)
+
+### 99 Bottles
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
 
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/conversionApp.zip)
