@@ -9,7 +9,7 @@
 ## Group Projects (2023-2024)
 UnusGame
 * Designer/Tester
-  [Group Respository](https://github.com/LilianDm/UnusGame.git)
+* [Group Respository](https://github.com/LilianDm/UnusGame.git)
 
 ## Induvidual Projects (2023-2024)
 
