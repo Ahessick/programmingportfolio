@@ -1,5 +1,6 @@
 # Arya Hessick's Programming Portfolio 2023-2024
 *Skyline High School Computer Programming 1-2
+* Contact Info
 
 ## USOE TECH Certifications
 * Computer Programming 1
