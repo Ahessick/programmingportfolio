@@ -1,6 +1,6 @@
 # Arya Hessick's Programming Portfolio 2023-2024
 *Skyline High School Computer Programming 1-2
-*contact info
+
 ## USOE TECH Certifications
 * Computer Programming 1
 * ECS1
@@ -44,7 +44,7 @@ UnusGame
 [Source Code](https://github.com/Ahessick/programmingportfolio/blob/main/src/Timeline%202.zip)
 
 ### Etch a Scetch
-* Keyboard based game
+* Keyboard based game that draws a line in the direction of the key pressed.
 
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/ETCH.png?raw=true)
@@ -54,6 +54,7 @@ UnusGame
 
 
 ### Conversion App
+* converts
 
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
