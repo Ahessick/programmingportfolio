@@ -54,7 +54,7 @@ UnusGame
 
 
 ### Conversion App
-* converts
+* converts miles => kilometers and vise versa with a mouse controlled bar.
 
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/CONVERSION.png?raw=true)
