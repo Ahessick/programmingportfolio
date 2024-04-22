@@ -10,7 +10,6 @@
 ## Group Projects (2023-2024)
 UnusGame
 * a game similar to Uno, with images, cards, and competition. In this game, we will have specialized cards to play against an AI.. We plan to have a smooth way to play and place down interesting cards, and a deck that randomly gives cards to the player and the AI.
-* My spotlighted job: Designer/Tester
 * [Group Respository](https://github.com/LilianDm/UnusGame.git)
 * Running App:
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/gpUnus.png?raw=true)
