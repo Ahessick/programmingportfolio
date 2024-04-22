@@ -24,7 +24,7 @@ UnusGame
 [Source code](https://github.com/Ahessick/Indopro/tree/main/src/desertAdventure1)
 
 ### SpaceGame
-* OOP graphical game with sound and keyboard/mouse listeners
+* OOP graphical game with sound and keyboard/mouse listeners, similar to space invaders,includes powerups and obstacles.(rocks and powerups=> "H" "T" "A") objective is to not allow the rocks to fall below the screen whle still keeping up the health of the spaceship. The spacship is equipped with lazers that eliminate the rocks, if the rocks hit the spaceship its health takes a cut. Powerups will increase the turret count, increase health, or increase ammo. Rocks will fall faster and more often acording to your level.
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/SG1.png?raw=true)
 
@@ -42,6 +42,7 @@ UnusGame
 
 
 ### Timeline
+Graphical interactive timeline with mouse listeners and hoverring info panels that describe a history of computers from 1930-1990
 
 
 ![Gameplay](https://github.com/Ahessick/programmingportfolio/blob/main/images/TIMELINE.png?raw=true)
