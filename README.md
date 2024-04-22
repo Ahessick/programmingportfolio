@@ -17,7 +17,7 @@ UnusGame
 
 ## Induvidual Projects (2023-2024)
 ### desertAdventure
-* OOP graphical game with keyboard and mouse listeners, similar to Adventure Island or Super Mario. Uses the proccesing application and includes powerups and obstacles. (foxes, snakes and cacti) Objective of the game is to fight off/kill the obstacles by intersecting them with the movemnt of the mouse, and preventing them from escaping to the border of the screen. All while staying alive with powerups; as the obstacles will lower health of the player. The game includes diffrent speeds as you increase your level
+* OOP graphical game with keyboard and mouse listeners, similar to Adventure Island or Super Mario. Uses the proccesing application and includes powerups and obstacles. (foxes, snakes and cacti) Objective of the game is to fight off/kill the obstacles by intersecting them with the movement of the mouse, and preventing them from escaping to the border of the screen. All while staying alive with powerups; as the obstacles will lower health of the player. The game includes diffrent speeds as you increase your level
 * mockup/images
 <img src = "https://github.com/Ahessick/Indopro/blob/main/images/snake.png?raw=true"> <img src = "https://github.com/Ahessick/Indopro/blob/main/images/foxn.png?raw=true"> <img src = "https://github.com/Ahessick/Indopro/blob/main/images/cactusn1.png?raw=true"> <img src = "https://github.com/Ahessick/Indopro/blob/main/images/startscreen.png?raw=true">
 [Source code](https://github.com/Ahessick/Indopro/tree/main/src/desertAdventure1)
